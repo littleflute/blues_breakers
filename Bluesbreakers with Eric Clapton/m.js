@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 All Your Love.mp3";		
+f[2]	= "02 Hideaway.mp3";		
+f[3]	= "03 Little Girl.mp3";		
+f[4]	= "04 Another Man.mp3";		
+f[5]	= "05 Double Crossin' Time.mp3";		
+f[6]	= "06 What'd I Say.mp3";		
+f[7]	= "07 Key To Love.mp3";		
+f[8]	= "08 Parchman Farm.mp3";		
+f[9]	= "09 Have You Heard-.mp3";		
+f[10]	= "10 Ramblin' On My Mind.mp3";		
+f[11]	= "11 Steppin' Out.mp3";		
+f[12]	= "12 It Ain't Right.mp3";		
